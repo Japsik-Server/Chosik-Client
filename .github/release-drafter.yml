@@ -1,0 +1,6 @@
+name-template: '${{ tag_name }}'
+tag-template: ''
+
+# 자동 생성된 릴리스 노트에 changelog.md 링크 추가
+template: |
+  👉 [**자세한 변경 사항은 changelog.md에서 확인하세요**](https://github.com/${{ repo }}/blob/${{ tag_name }}/changelog.md)
