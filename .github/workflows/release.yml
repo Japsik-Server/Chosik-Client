@@ -2,8 +2,8 @@ name: Release Drafter
 
 on:
   push:
-    tags:
-      - '*' # 태그가 푸시될 때 실행
+    branches:
+      - main
 
 jobs:
   update-release-draft:
