@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/JapsikLauncher-Data/live/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.4.15",
+    "version": "1.4.16",
     "name": "Chosik Client",
     "description": "초식(싱글플레이 가능)",
     "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
