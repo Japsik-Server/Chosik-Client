@@ -5,13 +5,13 @@
 ### ⬆️ 모드 업데이트
 
 ### ➕ 모드 추가
-- [Exposure](https://modrinth.com/mod/exposure)
-- [Exposure Catalog](https://modrinth.com/mod/exposure-catalog)
-- [Exposure: Polaroid](https://modrinth.com/mod/exposure-polaroid)
+- [Raise Sound Limit Simplified](https://modrinth.com/mod/rsls)
 
-### 🌐 번역팩 업데이트
-- [Ube's Delight](https://modrinth.com/mod/ubes-delight) 번역 업데이트
-- [WATERFrAMES: Multimedia Displays](https://modrinth.com/mod/waterframes) 번역 업데이트
+### ➖ 모드 제거
+- [Diagonal Windows](https://modrinth.com/mod/diagonal-windows) 제거
+
+### 🍱 사운드 패치 업데이트
+- [Diagonal Windows](https://modrinth.com/mod/diagonal-windows) 제거
 
 ***
 
