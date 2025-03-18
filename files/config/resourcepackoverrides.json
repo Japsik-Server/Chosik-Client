@@ -5,15 +5,24 @@
     "fabric",
     "moonlight:mods_dynamic_assets",
     "ubesdelight:udpresencefootsteps",
-    "file/japsikclientforchosik-translations.zip",
-    "file/sounds-patch.zip",
-    "file/Faithful 32x - 1.21.1.zip",
-    "file/Faithful 32x AppleSkin - 1.21.1.zip",
+    "file/Stay_True_1.21.zip",
+    "file/staytrue1.21.zip",
     "continuity:default",
     "continuity:glass_pane_culling_fix",
     "file/BetterHangulFont.zip",
     "file/Low Shield.zip",
-    "file/Better+Lanterns+v1.2(mc-1.21).zip",
-    "file/Better-Leaves-9.0.zip"
-  ]
+    "file/Better+Lanterns+v1.2(mc-1.21).zip"
+  ],
+  "pack_overrides": {
+    "1": [
+      "file/ChosikClient-translations",
+      "file/sounds-patch.zip"
+    ],
+    "$$1": {
+      "hidden": true,
+      "required": true,
+      "default_position": "TOP",
+      "fixed_position": true
+    }
+  }
 }
