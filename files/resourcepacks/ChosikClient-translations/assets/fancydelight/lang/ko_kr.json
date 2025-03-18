@@ -1,0 +1,30 @@
+{
+  "item.fancydelight.katsu_curry": "커리 가츠동",
+  "item.fancydelight.estrogen_waffle": "에스트로겐 와플",
+  "item.fancydelight.udon_noodles": "우동",
+  "item.fancydelight.pulla": "초콜릿 풀라",
+  "item.fancydelight.pretzel": "초콜릿 프레첼",
+  "item.fancydelight.sushi": "스시",
+  "item.fancydelight.wide_bread": "통밀빵",
+  "item.fancydelight.clam_chowder": "클램 차우더",
+  "item.fancydelight.ice_cream": "아이스크림",
+  "item.fancydelight.chocolate_lava_cake": "초콜릿 용암 케이크",
+  "item.fancydelight.pesto_pasta": "페스토 파스타",
+  "item.fancydelight.rice_pudding": "라이스 푸딩",
+  "item.fancydelight.chocolate_bar": "초콜릿 바",
+  "item.fancydelight.fried_rice": "볶음밥",
+  "item.fancydelight.estrogen_burger": "에스트로겐 버거",
+  "item.fancydelight.flour": "밀가루",
+
+
+  "block.fancydelight.chocolate_lava_cake_block": "초콜릿 용암 케이크",
+  "block.fancydelight.udon_noodles_block": "우동",
+
+
+
+
+
+  "itemgroup.fancydelight": "Fancy Delight",
+
+  "title.fancydelight.translations": "§7Fancy Delight 비공식 번역§r"
+}

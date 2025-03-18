@@ -1,0 +1,21 @@
+{
+    "title.niftycarts.translations": "§7NiftyCarts 비공식 번역§r",
+
+    "item.niftycarts.supply_cart": "공급 수레",
+    "item.niftycarts.plow": "쟁기",
+    "item.niftycarts.animal_cart": "동물 수레",
+    "item.niftycarts.hand_cart": "손수레",
+    "item.niftycarts.wheel": "바퀴",
+    "entity.niftycarts.supply_cart": "공급 수레",
+    "entity.niftycarts.plow": "쟁기",
+    "entity.niftycarts.animal_cart": "동물 수레",
+    "entity.niftycarts.hand_cart": "손수레",
+    "entity.niftycarts.postilion": "포틸리온",
+    "key.categories.niftycarts": "NiftyCarts",
+    "key.niftycarts.action": "수레 부착/분리",
+    "key.niftycarts.slow": "속도 저하 토글",
+    "subtitles.niftycarts.cart.attached": "수레 부착됨",
+    "subtitles.niftycarts.cart.detached": "수레 분리됨",
+    "subtitles.niftycarts.cart.placed": "수레 설치됨",
+    "stat.niftycarts.cart_one_cm": "수레로 이동한 거리"
+}

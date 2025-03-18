@@ -1,0 +1,40 @@
+{
+    "title.toms_peripherals.translations": "§7Tom's Peripherals 비공식 번역§r",
+
+	"block.toms_peripherals.gpu": "그래픽 카드",
+	"block.toms_peripherals.monitor": "모니터",
+	"block.toms_peripherals.wdt": "워치독 타이머",
+	"block.toms_peripherals.redstone_port": "레드스톤 포트",
+	"block.toms_peripherals.keyboard": "키보드",
+	"block.toms_peripherals.keyboard_dongle": "무선 키보드 동글",
+	
+	"item.toms_peripherals.gpu_chip": "그래픽 카드 칩",
+	"item.toms_peripherals.gpu_chip_raw": "익히지 않은 그래픽 카드 칩",
+	"item.toms_peripherals.laser_pointer": "레이저 포인터",
+	"item.toms_peripherals.portable_keyboard": "무선 키보드",
+	
+	"itemGroup.toms_peripherals.tab": "Tom's Peripherals",
+	
+	"label.toms_peripherals.wdt.enabled": "활성화됨",
+	"label.toms_peripherals.wdt.disabled": "비활성화됨",
+	"label.toms_peripherals.wdt.timeLimit": "타임아웃: %s",
+	"label.toms_peripherals.wdt.timer": "재설정 이후 경과된 시간: %s",
+	"label.toms_peripherals.keyboard.ccmon": "좌클릭하여 모니터 활성화",
+	"label.toms_peripherals.keyboard.monitor": "마우스 사용 활성화 됨",
+	"label.toms_peripherals.keyboard.open": "키보드 사용중. ESC를 눌러 닫으세요.",
+	
+	"config.toms_peripherals.maxScreenSize": "최대 화면 크기",
+	"config.toms_peripherals.maxVRAMSize": "그래픽 카드의 최대 비디오 랜덤 액세스 메모리(VRAM)",
+	
+	"tooltip.toms_peripherals.hold_shift_for_info": "SHIFT를 꾹 눌러 자세한 정보를 확인하세요.",
+	"tooltip.toms_peripherals.monitor": "그래픽 카드 블록은 반드시 모니터 블록 왼쪽 하단에 닿아야 합니다. 화살표는 이 블록에서 먼 쪽을 가르킵니다.",
+	"tooltip.toms_peripherals.gpu": "모니터 블록을 구동하고 이미지 조작 기능을 수행합니다. 기능 목록은 위키를 참조하세요.",
+	"tooltip.toms_peripherals.wdt": "문제 발생으로 인해 실행 중인 프로그램이 충돌하거나 시간이 초과되면 연결된 컴퓨터를 다시 시작합니다. 자세한 내용은 위키를 참조하세요.",
+	"tooltip.toms_peripherals.redstone_port": "컴퓨터에 더 많은 레드스톤 포트를 제공합니다.",
+	"tooltip.toms_peripherals.portable_keyboard.bound": "(%s, %s, %s) 에 페어링 됨",
+	"tooltip.toms_peripherals.portable_keyboard.info": "웅크리기 + 우클릭하여 무선 키보드 동글에 페어링하세요",
+	
+	"chat.toms_peripherals.portable_keyboard.bound_success": "무선 키보드 페어링함",
+	"chat.toms_peripherals.dongle_out_of_range": "동글이 수신거리 밖에 있음",
+	"chat.toms_peripherals.dongle_not_found": "동글을 찾을 수 없음"
+}

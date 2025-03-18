@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 34,
+        "description": {
+            "translate": "title.chosikclient.translations",
+            "fallback": "Translation Pack for Chosik Client"
+        }
+    }
+}
