@@ -23,6 +23,8 @@ Helios Core 기반 런처에서 사용할 수 있습니다.
 예시) `git subtree pull -P live/servers/Chosik-1.21.1 https://github.com/Japsik-Server/Chosik-Client.git 1.0.1 --squash`
 
 ### 주의사항
+- **배포 전 반드시 `modlist.md` 파일을 수정합니다!!**
+
 - 클라이언트의 모든 Merge 커밋들은 `<CLIENT_NAME> <VERSION>` 형식으로 이름을 짓습니다.
 
   - 예시) `Chosik-Client 1.0.0`
