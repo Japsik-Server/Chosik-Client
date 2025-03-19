@@ -1,6 +1,4 @@
 {
-    "title.copperhopper.translations": "§7Copper Hopper 비공식 번역§r",
-
     "block.copperhopper.copper_hopper" : "구리 호퍼",
     "item.copperhopper.copper_hopper_minecart" : "구리 호퍼가 실린 광산 수레",
     "entity.copperhopper.copper_hopper_minecart" : "구리 호퍼가 실린 광산 수레"

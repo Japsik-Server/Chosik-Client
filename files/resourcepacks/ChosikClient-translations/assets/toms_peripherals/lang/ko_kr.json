@@ -1,6 +1,4 @@
 {
-    "title.toms_peripherals.translations": "§7Tom's Peripherals 비공식 번역§r",
-
 	"block.toms_peripherals.gpu": "그래픽 카드",
 	"block.toms_peripherals.monitor": "모니터",
 	"block.toms_peripherals.wdt": "워치독 타이머",
