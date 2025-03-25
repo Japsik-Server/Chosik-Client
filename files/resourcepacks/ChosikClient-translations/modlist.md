@@ -1,0 +1,18 @@
+# 모드 목록 Mod List
+- [Copper Hopper](https://modrinth.com/mod/mTI5Xg5F) by pcal\.net
+- [Enchanted Vertical Slabs](https://modrinth.com/mod/TG1cHkRf) by Enchanted\_Games
+- [Fancy Delight](https://modrinth.com/mod/bRAjxqA5) by Leah, Labcoat\_cactus, PhenixW0LF
+- [Handcrafted](https://modrinth.com/mod/pJmCFF0p) by Alex Nijjar, Kekie6
+- [Integrated Circuit](https://modrinth.com/mod/bybyRAPl) by replaceitem
+- [Music Maker Mod](https://modrinth.com/mod/qQpWCN75) by xerca
+- [NiftyCarts](https://modrinth.com/mod/CXd6g9xp) by MennoMax, paul101, jmb19905
+- [Pineapple Delight](https://modrinth.com/mod/8wXnuOvg) by Someoneice
+- [Rustic Delight](https://modrinth.com/mod/foa4fGIH) by PhantomWing
+- [Seed Delight](https://modrinth.com/mod/seed-delight) by Yuqi154
+- [Storage Drawers](https://modrinth.com/mod/guitPqEi) by Texelsaur
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) by MehVahdJukaar, Plantkillable(작업중 Working...)
+- [Supplementaries Squared](https://modrinth.com/mod/dCCkNFwE) by MehVahdJukaar, Plantkillable(작업중 Working...)
+- [Tom's Peripherals](https://modrinth.com/mod/ljgxd2P8) by tom5454
+- [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) by Tiviacz1337
+- [Ube's Delight](https://modrinth.com/mod/PYjpoAys) by ChefMooon
+- [WaterFrames](https://modrinth.com/mod/eBzFuVTM) by SrRapero720
