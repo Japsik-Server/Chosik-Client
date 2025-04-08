@@ -102,7 +102,6 @@
 - [FabricSkyBoxes Interop](https://modrinth.com/mod/HpdHOPOp) by FlashyReese
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9) by ramidzkh
 - [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) by Fourmisain, BrekiTomasson, RandomMcSomethin
-- [FallingTree](https://modrinth.com/mod/Fb4jn8m6) by Rakambda
 - [Fancy Delight](https://modrinth.com/mod/bRAjxqA5) by Leah, Labcoat\_cactus, PhenixW0LF
 - [FancyMenu](https://modrinth.com/mod/Wq5SjeWM) by Keksuccino
 - [Farmer's Delight](https://modrinth.com/mod/7vxePowz) by MehVahdJukaar, MerchantPug
