@@ -122,6 +122,7 @@
 - [Gpu memory leak fix mod](https://www.curseforge.com/projects/882495) by 
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) by Alex Nijjar, Kekie6
 - [Healing Campfire](https://modrinth.com/mod/kOuPUitF) by Rick South
+- [HT's TreeChop](https://modrinth.com/mod/gHoB7SHO) by hammertater
 - [Hungrier](https://modrinth.com/mod/5Opza4ve) by boyonk
 - [IJM's Tweaks](https://modrinth.com/mod/vevAjqG0) by ItsJustMiaouss
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) by Grend
