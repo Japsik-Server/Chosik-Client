@@ -88,24 +88,14 @@
     "custom_configured_screen": true,
     "test1": 0.0,
     "test2": 0.0,
-    "test3": 0.0
+    "test3": 0.0,
+    "I am very boring": false
   },
   "tweaks": {
     "clock_right_click": true,
     "projectile_weapon_overlay": true,
     "compass_right_click": false,
     "placeable_books_glint": false,
-    "placeable_books_random_colors": [
-      "brown",
-      "orange",
-      "yellow",
-      "red",
-      "green",
-      "lime",
-      "cyan",
-      "blue",
-      "purple"
-    ],
     "banner_pattern_tooltip": true,
     "paintings_tooltip": true,
     "sherds_tooltip": true,

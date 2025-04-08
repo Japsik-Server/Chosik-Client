@@ -409,6 +409,8 @@
       "tinted_blocks_on_maps": true
     },
     "placeable_books": {
+      "enabled": true,
+      "written_books": true,
       "mixed_books": false
     },
     "zombie_horse": {

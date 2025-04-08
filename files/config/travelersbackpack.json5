@@ -56,6 +56,8 @@
 		"rightClickUnequip": false,
 		// Allows to use only equipped backpack
 		"allowOnlyEquippedBackpack": false,
+		// Allows opening the backpack by pressing a keybind while hovering over the slot with backpack in the player's inventory
+		"allowOpeningFromSlot": false,
 		// Backpack immune to any damage source (lava, fire), can't be destroyed, never disappears as floating item
 		"invulnerableBackpack": true,
 		// List of items that can be put in tool slots (Use registry names, for example: minecraft:apple, minecraft:flint)
@@ -72,8 +74,10 @@
 		"backpackDeathPlace": true,
 		// Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
 		"backpackForceDeathPlace": false,
+		// Allows sleeping in a sleeping bag without the need to unequip and place the backpack on the ground
+		"quickSleepingBag": true,
 		"enableSleepingBagSpawnPoint": false,
-		// If true, backpack can only be worn by placing it in Trinkets or Accessories 'Back' slot, WARNING - Remember to TAKE OFF BACKPACK BEFORE enabling or disabling this integration!! - if not you'll lose your backpack
+		// Backpacks can only be equipped in the Trinkets/Accessories 'Back' slot, provided those mods are installed. If set to false, backpacks can only be equipped by clicking the button in the Backpack GUI. This setting can be changed without unequipping the backpack. An already equipped backpack will not disappear and can be retrieved from the player's inventory.
 		"backSlotIntegration": true
 	},
 	"backpackUpgrades": {
@@ -87,11 +91,13 @@
 		"magnetUpgradeSettings": {
 			"enableUpgrade": true,
 			"filterSlotCount": 9,
-			"pullRange": 5
+			"pullRange": 5,
+			"tickRate": 10
 		},
 		"feedingUpgradeSettings": {
 			"enableUpgrade": true,
-			"filterSlotCount": 9
+			"filterSlotCount": 9,
+			"tickRate": 100
 		},
 		"voidUpgradeSettings": {
 			"enableUpgrade": true,
@@ -196,6 +202,27 @@
 			"travelersbackpack:cow",
 			"travelersbackpack:chicken",
 			"travelersbackpack:squid"
+		],
+		/* List of effect abilities associated with backpacks, you can modify this list as you wish. Different effects can be added to different backpacks. 
+		    Formatting: "<backpack_registry_name>; <status_effect_registry_name>; <min_duration_ticks>; <max_duration_ticks>; <amplifier>"
+		*/
+		"backpackEffects": [
+			"travelersbackpack:bat; minecraft:night_vision; 260; 300; 0",
+			"travelersbackpack:magma_cube; minecraft:fire_resistance; 260; 300; 0",
+			"travelersbackpack:squid; minecraft:water_breathing; 260; 300; 0",
+			"travelersbackpack:dragon; minecraft:regeneration; 260; 300; 0",
+			"travelersbackpack:dragon; minecraft:strength; 250; 290; 0",
+			"travelersbackpack:quartz; minecraft:haste; 260; 300; 0"
+		],
+		/* List of cooldowns that are being applied after ability usage, the backpacks on the list are all that currently have cooldowns, adding additional backpack will not give it cooldown. 
+		    Formatting: "<backpack_registry_name>; <min_possible_cooldown_seconds>; <max_possible_cooldown_seconds>"
+		*/
+		"cooldowns": [
+			"travelersbackpack:creeper; 1200; 1800",
+			"travelersbackpack:cow; 480; 540",
+			"travelersbackpack:chicken; 360; 600",
+			"travelersbackpack:cake; 360; 480",
+			"travelersbackpack:melon; 120; 480"
 		]
 	},
 	"slownessDebuff": {
