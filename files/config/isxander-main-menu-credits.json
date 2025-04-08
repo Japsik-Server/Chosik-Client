@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "Chosik Client 1.7.0",
+        "text": "Chosik Client 1.7.1",
         "clickEvent": {
           "action": "open_url",
           "value": "https://static.japsik.com/launcher"

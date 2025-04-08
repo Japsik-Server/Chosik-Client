@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/JapsikLauncher-Data/live/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "name": "Chosik Client",
     "description": "초식",
     "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
