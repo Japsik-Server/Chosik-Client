@@ -83,6 +83,9 @@
 	"backpackUpgrades": {
 		"enableTanksUpgrade": true,
 		"enableCraftingUpgrade": true,
+		"enableFurnaceUpgrade": true,
+		"enableSmokerUpgrade": true,
+		"enableBlastFurnaceUpgrade": true,
 		"enableJukeboxUpgrade": true,
 		"pickupUpgradeSettings": {
 			"enableUpgrade": true,

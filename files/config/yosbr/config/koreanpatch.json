@@ -1,0 +1,32 @@
+{
+  "categoryIndicator": {
+    "showIndicator": true,
+    "outline": {
+      "showOutline": true,
+      "rounded": true,
+      "colorOpacity": {
+        "koreanColor": 16711680,
+        "enColor": 65280,
+        "imeColor": 16777215,
+        "opacity": 100
+      }
+    },
+    "background": {
+      "koreanColor": 0,
+      "enColor": 0,
+      "imeColor": 0,
+      "opacity": 50
+    },
+    "text": {
+      "koreanColor": 16777215,
+      "enColor": 16777215,
+      "imeColor": 16777215,
+      "opacity": 100
+    },
+    "animation": {
+      "showAnimation": true,
+      "easingFunction": "easeOutQuint",
+      "speed": 30
+    }
+  }
+}
