@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///C:/JapsikLauncher-Data/current/schemas/ServerMetaSchema.schema.json",
+  "$schema": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/refs/heads/main/current/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.8.0",
     "name": "Chosik Client",
