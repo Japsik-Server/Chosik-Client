@@ -1,3 +1,7 @@
+## 1.8.3 (2025-04-20)
+
+- [JamLib](https://modrinth.com/mod/jamlib) 오류 메시지 제거
+
 ## 1.8.2 (2025-04-20)
 
 - GUI 오류 수정
@@ -31,7 +35,7 @@
 
 ## 1.7.1 (2025-04-08)
 
-- [JamLib 오류 메시지 제거](https://modrinth.com/mod/jamlib)
+- [JamLib](https://modrinth.com/mod/jamlib) 오류 메시지 제거
 
 ## 1.7.0 (2025-04-08)
 
